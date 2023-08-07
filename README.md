@@ -11,6 +11,17 @@
 
 This tool tries to assemble different plain text structures, which makes kind of sense for humans but not for computers. The plain text file might be a result of different print statements passed into a file or anything else which may have caused this chaos.
 
+## Usage
+
+```bash
+python chaos2csv/main.py -p <path_to_plaintext> <command>
+```
+
+if you want to now which commands are available type:
+
+```bash
+python chaos2csv/main.py -h
+```
 
 - Free software: GPL-3.0-only
 - Documentation: https://makanu.github.io/chaos2csv.
