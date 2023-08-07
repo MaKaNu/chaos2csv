@@ -3,7 +3,7 @@
 
 [![PyPI version](https://badge.fury.io/py/chaos2csv.svg)](https://badge.fury.io/py/chaos2csv)
 ![versions](https://img.shields.io/pypi/pyversions/chaos2csv.svg)
-[![GitHub license](https://img.shields.io/github/license/mgancita/chaos2csv.svg)](https://github.com/mgancita/chaos2csv/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/makanu/chaos2csv.svg)](https://github.com/makanu/chaos2csv/blob/main/LICENSE)
 
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
