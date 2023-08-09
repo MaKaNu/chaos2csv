@@ -18,10 +18,14 @@ include = [
     "LICENSE",
     "chaos2csv/py.typed"
 ]
+packages = [{include = "chaos2csv"}]
 
 [tool.poetry.dependencies]
 python = "^3.7"
 importlib_metadata = "^3.4.0"
+
+[tool.poetry.scripts]
+chaos2csv = "chaos2csv.chaos2csv:main"
 
 [tool.poetry.dev-dependencies]
 mkdocs-material = "^6.1.5"
