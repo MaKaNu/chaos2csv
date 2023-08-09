@@ -5,7 +5,7 @@ from pathlib import Path
 import sys
 import types
 
-from commands import multiline_dict_tensor
+from chaos2csv.commands import multiline_dict_tensor
 
 
 def use_tomllib() -> types.ModuleType:
