@@ -16,6 +16,16 @@
                 "~/Downloads/test.txt",
                 "multiline-dict-tensor"
             ]
+        },
+        {
+            "name": "Debug Tests",
+            "type": "python",
+            "request": "test",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "env": {
+                "PYTEST_ADDOPTS": "--no-cov"
+            }
         }
     ]
 }
